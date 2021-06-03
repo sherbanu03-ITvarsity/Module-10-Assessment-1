@@ -1,0 +1,18 @@
+#body-home{
+    background-image: url('image/navy-blue-and-gold-background.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+
+#align{
+    text-align: center;
+    margin: 200px;
+    color: white;
+}
+
+#posts{
+    color:  #d4af37;
+}
